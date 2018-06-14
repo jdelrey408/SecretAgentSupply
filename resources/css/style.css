@@ -224,10 +224,10 @@ footer {
 
   .info {
     width: 90%;
+    margin: 0.5em auto;
   }
 
-  location {
-    display: flex;
+  #location {
     margin: 3em 0.8em 0 1em;
     flex-wrap: wrap;
   }
